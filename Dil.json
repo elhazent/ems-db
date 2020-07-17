@@ -1,0 +1,39 @@
+{
+
+	"status": 200,
+	"data": [
+				{	
+					
+					"unitupi": "54",
+					"unitap": "54410",
+					"unitup": "54410",
+					"tarif": "B2",
+					"daya": "13200",
+					"nama": "PT NATRINDO TELP SELULER",
+					"idpel": "544103646227",
+					"pnj": "JL",
+					"namapnj": "OTISTA DPN MUSIK JTNG",
+					"nobang": "null",
+					"ketnobang": "null",
+					"rt": "null",
+					"rw": "null",
+					"nodlmrt": "null",
+					"ketnodlmrt": "null",
+					"lingkungan": "null",
+					"koordinatx": "-6.224931021",
+					"koordinaty": "106.866178052",
+					"pemda": "0E",
+					"kogol": "0",
+					"kdppj": "P",
+					"unit": "REGIONt",
+					"noTelp": "null",
+					"noHp": "null",
+					"pic": "null",
+					"dilType": "2"
+				
+				}
+			],
+			"message": "Success",
+			"success": true
+	
+}

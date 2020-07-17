@@ -1,0 +1,20 @@
+{
+
+	"status": 200,
+	"data": [
+				{
+					"id": "2314",
+					"userId": "ADMINSP",
+					"name": "ADMINSP",
+					"token": "null",
+					"email": "adminsp@yopmail.com",
+					"phone": "null",
+					"company": "Icon Plus"
+				
+				}
+			],
+			"message": "Success",
+			"success": true
+	
+	  
+}

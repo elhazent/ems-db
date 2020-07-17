@@ -1,0 +1,14 @@
+{
+
+	"status": 200,
+	"data": [
+				{
+					"company": "Icon Plus",
+					"enabled": true
+				}
+			],
+			"message": "Success",
+			"success": true
+	
+	
+}

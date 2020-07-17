@@ -1,0 +1,47 @@
+{
+
+	"status": 200,
+	"data": [
+				{
+					"id": 542157506545,
+					"periode": 20205,
+					"site":  {
+								"siteCode":"20003",
+								"siteCodeExixst":"20003",
+								"unit": "REGION",
+								"name": "JABO1",
+								"shortName": "null"
+							},
+					"dil": {
+								"idpel":"544300045056",
+								"unitupi": "54",
+								"unitap": "54420",
+								"unitup": "54420",
+								"tarif": "B2",
+								"daya": "13200",
+								"nama": "PT.EXCELCOMINDO P.",
+								"pnj": "JL",
+								"namapnj": "JL.P.REVOLUSI NO.1",
+								"pemda": "0E",
+								"kogol": "0",
+								"kdppj": "P",
+								"unit": "REGION",
+								"diltype": 2	
+				
+							},
+					"avgKwh": "1300",
+					"avgRptag": "1301", 
+					"totalKwh": "1302",
+					"totalRptag": "1303",
+					"lastMonthKwh": "1304",
+					"lastMonthRptag": "1305",
+					"thisMonthKwh": "1306", 
+					"thisMonthRptag": "1307",
+					"createdBy": "null",
+					"createdDate": "null"
+				}
+			],
+			"message": "Success",
+			"success": true
+	
+}

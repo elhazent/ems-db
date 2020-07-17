@@ -1,0 +1,11 @@
+{
+	"status": 200,
+	"data": [
+				{
+					"companyCode": "JKT",
+					"name": "PLN JAKARTA"
+				}
+			],
+	"message": "Success",
+    "success": true
+}

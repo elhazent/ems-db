@@ -1,0 +1,13 @@
+{
+	"status": 200,
+	"data": [
+				{
+					"thisMonRp": 76567.0,
+					"thisMonKwH": 1422.0,
+					"period": 20205
+				}
+			],
+			"message": "Success",
+			"success": true
+	
+}
