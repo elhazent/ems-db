@@ -1,0 +1,13 @@
+{
+	"status": 200,
+	"data": {
+        "lastMonthRptag":543254,
+        "lastMonthKwh":543654,
+        "thisMonthKwh":835672,
+        "thisMonthRptag":238254,
+        "totalLocation":846354
+      },
+			"message": "Success",
+			"success": true
+	
+}

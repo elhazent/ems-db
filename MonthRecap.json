@@ -1,0 +1,48 @@
+{
+	"status": 200,
+	"data": [
+        {
+            "thisMonthRptag":876534235,
+            "thisMonthKwh":466373654,
+            "periode":"2020-01"
+          },
+          {
+            "thisMonthRptag":847836948,
+            "thisMonthKwh":165487463,
+            "periode":"2020-02"
+          },
+          {
+            "thisMonthRptag":956121254,
+            "thisMonthKwh":763904575,
+            "periode":"2020-03"
+          },
+          {
+            "thisMonthRptag":675347865,
+            "thisMonthKwh":456324567,
+            "periode":"2020-04"
+          },
+          {
+            "thisMonthRptag":543676543,
+            "thisMonthKwh":987345673,
+            "periode":"2020-05"
+          },
+          {
+            "thisMonthRptag":956121254,
+            "thisMonthKwh":543676543,
+            "periode":"2020-06"
+          },
+          {
+            "thisMonthRptag":165487463,
+            "thisMonthKwh":456324567,
+            "periode":"2020-07"
+          },
+          {
+            "thisMonthRptag":165487463,
+            "thisMonthKwh":543676543,
+            "periode":"2020-08"
+          }
+    ],
+			"message": "Success",
+			"success": true
+	
+}
