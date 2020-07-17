@@ -1,0 +1,41 @@
+{
+	"status": 200,
+	"data":[
+        {
+            "dil": {
+              "nama" : "Zone 1",
+              "dilType":513453,
+              "idpel":"542154321545"
+            },
+            "thisMonthRptag":412343,
+            "thisMonthKwh":431241,
+            "lastMonthRptag":6542352,
+            "lastMonthKwh":5143512
+          },
+          {
+            "dil": {
+              "nama" : "Zone 2",
+              "dilType":513453,
+              "idpel":"542154321545"
+            },
+            "thisMonthRptag":412343,
+            "thisMonthKwh":431241,
+            "lastMonthRptag":6542352,
+            "lastMonthKwh":5143512
+          },
+          {
+            "dil": {
+              "nama" : "Zone 3",
+              "dilType":513453,
+              "idpel":"542154321545"
+            },
+            "thisMonthRptag":412343,
+            "thisMonthKwh":431241,
+            "lastMonthRptag":6542352,
+            "lastMonthKwh":5143512
+          }
+    ],
+    "message": "Success",
+    "success": true
+	
+}
