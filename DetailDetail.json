@@ -1,0 +1,36 @@
+{
+	"status": 200,
+	"data":[
+        {
+            "site" : {"name": "PT Icon Plus Jakarta 63"},
+            "thisMonthRptag" : 5234543,
+            "thisMonthKwh" : 543254,
+            "lastMonthRptag": 76356,
+            "lastMonthKwh": 64325421
+          },
+          {
+            "site" : {"name": "PT Icon Plus Jakarta 23"},
+            "thisMonthRptag" : 5234543,
+            "thisMonthKwh" : 543254,
+            "lastMonthRptag": 76356,
+            "lastMonthKwh": 64325421
+          },
+          {
+            "site" : {"name": "PT Icon Plus Jakarta 73"},
+            "thisMonthRptag" : 5234543,
+            "thisMonthKwh" : 543254,
+            "lastMonthRptag": 76356,
+            "lastMonthKwh": 64325421
+          },
+          {
+            "site" : {"name": "PT Icon Plus Jakarta 61"},
+            "thisMonthRptag" : 5234543,
+            "thisMonthKwh" : 543254,
+            "lastMonthRptag": 76356,
+            "lastMonthKwh": 64325421
+          }
+    ],
+    "message": "Success",
+    "success": true
+	
+}
