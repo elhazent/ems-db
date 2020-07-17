@@ -1,8 +1,6 @@
 {
-      "success" : true,
 	"status": 200,
-	"message":"success",
-      "data" : [
+	"data": [
         {
           "idpel": "544103701315",
           "unitupi": "54",
@@ -1245,5 +1243,8 @@
           "pic": null,
           "dilType": 2
         }
-      ]
-    }
+      ],
+	"message": "Success",
+	"success": true
+	
+}
